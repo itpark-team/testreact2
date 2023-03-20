@@ -1,3 +1,7 @@
-h1{
-    background-color: bisque;
+h1 {
+    background-color: #FACE8D;
+}
+
+.mybutton{
+    font-size: 50px !important;
 }
